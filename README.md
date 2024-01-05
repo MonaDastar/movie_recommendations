@@ -1,4 +1,4 @@
-### Project: Movie Recommendations Mashup
+### Project: Movie Recommendations Mashup by Mona Dastar
 
 
 
